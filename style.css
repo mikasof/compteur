@@ -1,0 +1,16 @@
+#shiva {
+    width: 100px;
+    height: 100px;
+    bottom: 20px;
+  }
+  
+  .count {
+    line-height: 100px;
+    color: black;
+    margin-left: 30px;
+    font-size: 25px;
+  }
+  
+  .large-space {
+    height: 600px;
+  }
